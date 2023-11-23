@@ -1,0 +1,6 @@
+id,sport_id,country_id,name,active,short_code,image_path,type,sub_type,last_played_at,category,has_jerseys
+8,1,462,Premier League,True,UK PL,https://cdn.sportmonks.com/images/soccer/leagues/8/8.png,league,domestic,2023-11-12 16:30:00,1,False
+82,1,11,Bundesliga,True,GER BI,https://cdn.sportmonks.com/images/soccer/leagues/82.png,league,domestic,2023-11-12 18:30:00,1,False
+301,1,17,Ligue 1,True,FRA L1,https://cdn.sportmonks.com/images/soccer/leagues/13/301.png,league,domestic,2023-11-12 19:45:00,1,False
+384,1,251,Serie A,True,ITA SA,https://cdn.sportmonks.com/images/soccer/leagues/0/384.png,league,domestic,2023-11-12 19:45:00,1,False
+648,1,5,Serie A,True,BRA CB,https://cdn.sportmonks.com/images/soccer/leagues/648.png,league,domestic,2023-11-23 00:30:00,2,False
